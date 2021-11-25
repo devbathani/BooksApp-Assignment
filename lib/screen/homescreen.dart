@@ -65,7 +65,7 @@ class _HomescreenState extends State<Homescreen> {
                           borderRadius: BorderRadius.circular(15),
                         ),
                         child: Padding(
-                          padding: const EdgeInsets.all(10.0),
+                          padding: const EdgeInsets.all(15.0),
                           child: Column(
                             children: [
                               Row(
